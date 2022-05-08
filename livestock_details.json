@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "breed":"Truck",
+        "basePrice": 10000,
+        "image":"image1.jpg"        
+    },
+    {
+        "id": 2,
+        "breed":"Bike",
+        "basePrice": 20000,
+        "image":"image2.jpg" 
+    },
+    {
+        "id": 3,
+        "breed":"CAR",
+        "basePrice": 30000,
+        "image":"image3.jpg" 
+    },
+    {   "id": 4,
+        "breed":"Sports Car",
+        "basePrice": 50000,
+        "image":"sports car.jpg"
+    },
+    {
+        "id": 5,
+        "breed":"sports Bike",
+        "basePrice": 30000,
+        "image":"image.jpg"
+    },
+    {
+        "id": 6,
+        "breed":"Tourist Bus",
+        "basePrice": 80000,
+        "image":"Touristbus.jpg"
+    }
+    
+]
